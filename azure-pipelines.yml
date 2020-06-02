@@ -25,6 +25,3 @@ steps:
   inputs:
     SearchPattern: '**\bin\**\8.pdb'
   continueOnError: true
-
-- task: CopyFiles@1
-  displayName: 'Copy'
